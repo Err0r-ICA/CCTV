@@ -13,7 +13,7 @@ python2 CCTV
 ### 👤 My Accounts 👤
 <a href="https://instagram.com/defacer1337"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.tiktok.com/@err0r_hb?_t=8qVhutK5QKf&_r=1"><img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
-<a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
+<a href="https://t.me/defacer1337"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
 
 [![Build-passing](https://img.shields.io/badge/build-passing-red.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Stars](https://img.shields.io/open-vsx/stars/Redhat/Java.svg?style=plastic&color=orange)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Coverage](https://img.shields.io/azure-devops/coverage/Swellaby/Opensource/25?color=yellow&style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
